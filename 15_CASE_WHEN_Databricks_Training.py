@@ -4,7 +4,7 @@
 # environment_version = "6"
 # ///
 # MAGIC %md
-# MAGIC # PySpark CASE WHEN — Databricks Training Material
+# MAGIC # PySpark CASE WHEN — Databricks Training Material_Test_to_check_commit
 # MAGIC
 # MAGIC ## `when()` and `otherwise()` in PySpark
 # MAGIC
